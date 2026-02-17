@@ -1,0 +1,6 @@
+@VBoard.Api_HostAddress = http://localhost:5149
+
+GET {{VBoard.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
